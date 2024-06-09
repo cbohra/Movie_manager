@@ -1,0 +1,23 @@
+/* src/components/MovieCard.css */
+
+.movie-card-container {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  width: 200px;
+  text-align: center;
+}
+
+.movie-card-image {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.movie-card-title {
+  font-size: 1.2em;
+  margin: 8px 0;
+}
+
+.movie-card-release-date {
+  color: #555;
+}

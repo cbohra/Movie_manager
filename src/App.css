@@ -1,0 +1,31 @@
+/* src/App.css */
+
+.app-container {
+  text-align: center;
+}
+
+.search-results-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: center;
+}
+
+.app-title {
+  margin-top: 20px;
+}
+
+.search-bar-form {
+  margin: 20px 0;
+}
+
+.search-bar-input {
+  padding: 10px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+.search-bar-button {
+  padding: 10px;
+  font-size: 16px;
+}
